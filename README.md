@@ -25,4 +25,4 @@
 
 
 
-[![leleonp's GitHub stats](https://github-readme-stats.vercel.app/api?username=leleonp&count_private=true&show_icons=true&theme=dark)](https://github.com/leleonp/github-readme-stats)
+[![leleonp's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=leleonp&count_private=true&show_icons=true&theme=dark)](https://github.com/leleonp/github-readme-stats)
