@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @leleonp
-- 👀 I’m interested in genomics, bioinformatics and computational biology
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
