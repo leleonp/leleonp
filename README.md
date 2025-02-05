@@ -28,4 +28,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=leleonp&row=2&column=4)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leleonp)
