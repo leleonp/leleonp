@@ -21,7 +21,8 @@
  <a href="https://www.r-project.org.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="gcp" width="40" height="40"/> </a>
  </details>
 
+![](https://raw.githubusercontent.com/leleonp/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
-
+![](https://raw.githubusercontent.com/leleonp/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=leleonp&row=4&column=5)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub)
