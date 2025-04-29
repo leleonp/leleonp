@@ -22,8 +22,6 @@
  </details>
 
 
-![](https://raw.githubusercontent.com/leleonp/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
-![](https://raw.githubusercontent.com/leleonp/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=leleonp&row=4&column=5)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub)
