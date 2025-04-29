@@ -22,8 +22,6 @@
  </details>
 
 
-
-
 [![leleonp's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=leleonp&show_icons=true&theme=dark&rank&show_rank=true)](https://github.com/leleonp/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=leleonp&row=2&column=4)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub)
