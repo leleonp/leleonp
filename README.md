@@ -8,19 +8,21 @@
 [![Linkedin Badge](https://img.shields.io/badge/-leleonp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/midhruvjaink/)](https://www.linkedin.com/in/leleonp/)
 [![Gmail Badge](https://img.shields.io/badge/-luisleon22@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luisleon22@gmail.com)](mailto:luisleon22@gmail.com)
   
-  
- <details>
-   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
-   <br/>
-   <p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-      <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="git" width="40" height="40"/> </a> 
-    <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
- <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
- <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
- <a href="https://www.r-project.org.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="gcp" width="40" height="40"/> </a>
- </details>
 
-![](https://raw.githubusercontent.com/leleonp/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+<table align="center" width="100%">
+  <tr>
+    <td align="left" width="50%">
+      <img src="https://raw.githubusercontent.com/leleonp/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+    </td>
+    <td align="right" width="50%">
+      <img src="https://raw.githubusercontent.com/leleonp/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+    </td>
+  </tr>
+</table>
 
-![](https://raw.githubusercontent.com/leleonp/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leleonp&theme=github-dark-dimmed&custom_title=leleonp%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=leleonp&theme=onedark&column=-1" />
+</p>
