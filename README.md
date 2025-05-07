@@ -21,7 +21,7 @@
 </table>
 
 
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leleonp&theme=github-compact&custom_title=leleonp%20Activity%20Graph&hide_border=true)]
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leleonp&theme=github-compact&custom_title=leleonp%20Activity%20Graph&hide_border=true)
 
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=leleonp&theme=onedark&column=-1" />
