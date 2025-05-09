@@ -8,7 +8,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-leleonp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/midhruvjaink/)](https://www.linkedin.com/in/leleonp/)
 [![Gmail Badge](https://img.shields.io/badge/-luisleon22@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luisleon22@gmail.com)](mailto:luisleon22@gmail.com)
   
-
+## 📈 GitHub Stats:
 <table align="center" width="100%">
   <tr>
     <td align="left" width="50%">
@@ -21,8 +21,11 @@
 </table>
 
 
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leleonp&theme=github-compact&custom_title=leleonp%20Activity%20Graph&hide_border=true)
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leleonp&theme=monokai&custom_title=leleonp%20Activity%20Graph&hide_border=true)
 
+## 🏆 GitHub Trophies:
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=leleonp&theme=onedark&column=-1" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=leleonp&theme=monokai&column=-1" />
 </p>
+
+
