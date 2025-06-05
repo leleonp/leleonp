@@ -26,7 +26,7 @@
 
 ## 🏆 GitHub Trophies:
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=leleonp&theme=monokai&column=-1" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=leleonp&theme=monokai&column=9" />
 </p>
 
 
