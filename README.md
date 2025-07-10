@@ -1,13 +1,4 @@
 - 👋 Hi, I’m @leleonp
-
-🔗 &nbsp;**Connect with me**
-<p align="left">
-
-[![Twitter Badge](https://img.shields.io/badge/-@leleonp-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/leleono)](https://twitter.com/leleonp) 
-[![Instagram Badge](https://img.shields.io/badge/-@leleonp-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/maddhruv)](https://instagram.com/leleonp) 
-[![Linkedin Badge](https://img.shields.io/badge/-leleonp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/midhruvjaink/)](https://www.linkedin.com/in/leleonp/)
-[![Gmail Badge](https://img.shields.io/badge/-luisleon22@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luisleon22@gmail.com)](mailto:luisleon22@gmail.com)
-
   
 ## 📈 GitHub Stats:
 <table align="center" width="100%">
